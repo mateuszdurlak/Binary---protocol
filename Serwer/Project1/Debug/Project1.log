@@ -1,0 +1,4 @@
+﻿  server.cpp
+c:\users\hubert\source\repos\klient_serwer_b\project1\project1\server.cpp(38): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\hubert\source\repos\klient_serwer_b\project1\project1\server.cpp(310): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  Project1.vcxproj -> C:\Users\Hubert\source\repos\klient_serwer_b\Project1\Debug\Project1.exe
